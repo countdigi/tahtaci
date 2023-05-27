@@ -1,6 +1,7 @@
 - Husseın/Meryam
   - Remziye/Behzat
-    - Yonca - Elü 
+    - Yonca/Meti
+      - Elü 
     - Gül
     - Gamze - Araz
     - Sonrner
