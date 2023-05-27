@@ -35,7 +35,8 @@ Ali/Makbule
 - Murat 
 - Mehmet
 - Harun
-- Gürkan/Berna Atlas - Demir
+- Gürkan/Berna Atlas 
+  - Demir
 - Yağmur 
 
 Hasan/Şaıbe
