@@ -12,6 +12,23 @@
 - Arzu
 - Ebru
 
+Mehmet/Haza
+- Sedar
+- Seda/Mustafa
+  - Deren
+  - Mert
+- Hakan
+
+Hasan/Şaibe
+- Ayten/Selim
+  - Fatma
+  - Yusuf
+- Ayhan
+- Cumali
+- Murat 
+  - Koç Ali
+  - Uömer Taha
+
 Ali/Makbule
 - Murat 
 - Mehmet
@@ -24,6 +41,13 @@ Hasan/Şaıbe
 - Ayten/Selim
 - Murat
 - Cumali
+
+Makbule
+- Fatoş
+- Murat
+- Suat
+- Fuat
+- Aygül
 
 Rabıa uncle Ramizan
 - Azız/Sevgı
