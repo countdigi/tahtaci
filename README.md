@@ -3,7 +3,8 @@
     - Yonca/Meti
       - Elü 
     - Gül
-    - Gamze - Araz
+    - Gamze 
+      - Araz
     - Sonrner
   - Cengıs/Sevgı
   - Sedat
