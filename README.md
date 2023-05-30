@@ -60,13 +60,14 @@ Rabıa uncle Ramizan
 - Azız/Sevgı
 - Ramizan/Fatoush
   - Umit 
-- Unal
-- Serkan
+  - Alena
+  - Unal
+  - Serkan
 
 Izmir
 - Neclan
+  - Poyraz (grandson)
 
 
 
-- Alena
 
