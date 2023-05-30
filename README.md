@@ -66,6 +66,7 @@ Rabıa uncle Ramizan
 
 Izmir
 - Neclan
+- Pinyar
   - Poyraz (grandson)
 
 
