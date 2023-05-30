@@ -65,9 +65,13 @@ Rabıa uncle Ramizan
   - Serkan
 
 Izmir
-- Neclan
-- Pinyar
-  - Poyraz (grandson)
+- Neclan/Ramazan
+  - Pinar
+  - Nazan
+  - Metin
+  - umer
+  - Yakub
+    - Poyraz (grandson)
 
 
 
