@@ -70,7 +70,7 @@ Izmir
   - Nazan
   - Metin
   - umer
-  - Yakub
+  - Yakup
     - Poyraz (grandson)
 
 
