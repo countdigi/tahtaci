@@ -1,10 +1,9 @@
-Cemile/Fayık
-- Nurhan/Sinasi
-  - Batuhan
-  - Begüm
-  - Aslı
-  - Busenur
-
+- Cemile/Fayık
+  - Nurhan/Sinasi
+    - Batuhan
+    - Begüm
+    - Aslı
+    - Busenur
 - Husseın/Meryam
   - Remziye/Behzat
     - Yonca/Meti
@@ -20,27 +19,25 @@ Cemile/Fayık
 - Üzlem
 - Arzu
 - Ebru
-
-Mehmet/Haza
-- Sedar
-- Seda/Mustafa
-  - Deren
-  - Mert
-- Hakan
-
-Hasan/Şaibe
-- Ayten/Selim
-  - Fatma
-  - Yusuf
-- Ayhan / mehtap
-   - ilayda
-   - hasanarda
-   - anıl
-- Cumali/merve
+- Mehmet/Haza
+  - Sedar
+  - Seda/Mustafa
+    - Deren
+    - Mert
+  - Hakan
+- Hasan/Şaibe
+  - Ayten/Selim
+    - Fatma
+    - Yusuf
+  - Ayhan / mehtap
+    - ilayda
+    - hasanarda
+    - anıl
+  - Cumali/merve
     - hasan 
-- Murat / medine 
-  - Koç Ali
-  - ömer Taha
+  - Murat / medine 
+    - Koç Ali
+    - ömer Taha
 
 Ali/Makbule
 - Murat 
